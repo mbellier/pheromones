@@ -18,3 +18,15 @@ Screenshots (chronological order)
 ![](screenshots/2.png)
 ![](screenshots/3.png)
 ![](screenshots/4.png)
+
+
+Installation
+------------
+
+For OSX:
+```
+brew install sdl
+git pull https://github.com/mbellier/pheromones.git
+make
+./main
+```

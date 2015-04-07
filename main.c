@@ -47,7 +47,7 @@ void food_spot(pheromone *map, int x, int y, int r){
 }
 
 
-int main (int argc, char **argv) {
+int main (void) { 
     random__init();
 /*
     printf("%d\n", random__range(10,20));
