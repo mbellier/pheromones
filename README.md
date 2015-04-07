@@ -27,6 +27,7 @@ For OSX:
 ```
 brew install sdl
 git clone https://github.com/mbellier/pheromones.git
+cd pheromones
 make
 ./main
 ```
