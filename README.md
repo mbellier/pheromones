@@ -31,3 +31,4 @@ cd pheromones
 make
 ./main
 ```
+*(Known bugs with OSX: wrong colors, mouse/keyboard shortcuts not working)*
