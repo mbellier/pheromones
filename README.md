@@ -10,16 +10,6 @@ Ants are indiviudal agents that can only communicate indirectly by releasing a s
 
 The pheromone concentration is spreading over time and can be reenforced by ants that have found food and carry it back to the nest, or it slowly evaporates otherwise. **This system reveals an emergent behaviour: the path to the nearest spot of food is naturally selected** without any global awareness of the map, direct communication between the ants, and more interstingly, no computation by any single agent of the global problem.
 
-
-Screenshots (chronological order)
------------
-
-![](screenshots/1.png)
-![](screenshots/2.png)
-![](screenshots/3.png)
-![](screenshots/4.png)
-
-
 Installation
 ------------
 
@@ -32,3 +22,13 @@ make
 ./main
 ```
 *(Known bugs with OSX: wrong colors, mouse/keyboard shortcuts not working)*
+
+Screenshots (chronological order)
+-----------
+
+![](screenshots/1.png)
+![](screenshots/2.png)
+![](screenshots/3.png)
+![](screenshots/4.png)
+
+
